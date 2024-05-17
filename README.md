@@ -3,6 +3,7 @@
 Completed projects available from DataCamp.com.
 
 * Analyze Your Runkeeper Fitness Data
+
   Tools: pandas, statsmodels, matplotlib
 
 * Analyzing Password Strength in Python	
